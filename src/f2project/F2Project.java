@@ -15,9 +15,7 @@ public class F2Project {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("main");
-         System.out.println("first");
-         System.out.println("haha");
+
     }
     
 }
